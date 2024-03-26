@@ -2,10 +2,10 @@
 layout: post
 title: Cosmovision Brésilienne
 subtitle: Démo de jeu vidéo
-cover-img: /assets/img/FondAza-MC.jpeg.jpeg
+cover-img: /assets/img/Fond-Cosmovision.jpeg
 thumbnail-img: /assets/img/
 share-img: /assets/img/path.jpg
-tags: jeu vidéo, artworks
+tags: [jeu vidéo, artworks]
 author: Raphaël 
 ---
 
