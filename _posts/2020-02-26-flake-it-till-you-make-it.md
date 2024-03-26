@@ -20,5 +20,5 @@ différentes entités, recevant leur aide vous accordant de grands défis des po
 après les avoir vaincus lors d'un défi. 
 
 Artworks réalisés: 
-<img src=“IllustrationCurupira.jpeg.jpeg”/> 
-<img src="AzaCouleurs.jpeg.jpeg"/>
+</assets/img src=“IllustrationCurupira.jpeg.jpeg”/> 
+<assets/img src="AzaCouleurs.jpeg.jpeg"/>
