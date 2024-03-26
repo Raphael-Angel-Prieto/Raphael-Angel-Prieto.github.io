@@ -9,4 +9,4 @@ tags: jeu vidéo, artworks
 author: Raphaël 
 ---
 
-Comsmovisão Brasileira est une démonstration de jeu vidéo réalisée dans le cadre d'un échange universitaire dans l'université de São Paulo, Brésil. 
+<i>Comsmovisão Brasileira</i> est une démonstration de jeu vidéo réalisée dans le cadre d'un échange universitaire dans l'université de São Paulo, Brésil. 
