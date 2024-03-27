@@ -21,5 +21,8 @@ après les avoir vaincus lors d'un défi.
 
 Artworks réalisés: 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-![IllustrationCurupira.jpeg](https://rapahel-angel-prieto.github.io/assets/img/IllustrationCurupira.jpeg.jpeg)
+![IllustrationCurupira](https://rapahel-angel-prieto.github.io/assets/img/IllustrationCurupira.jpeg.jpeg)
+<img src="assets/IllustrationCurupira.jpeg.jpeg"> 
+<img src="img/assets/IllustrationCurupira.jpeg.jpeg">
+
 
