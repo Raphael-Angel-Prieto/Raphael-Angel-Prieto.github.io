@@ -20,7 +20,9 @@ différentes entités, recevant leur aide en vous accordant de grands pouvoirs
 après les avoir vaincus lors d'un défi. 
 
 Artworks réalisés: 
-<img src="/assets/img/IllustrationCurupira.jpeg.jpeg" /> 
-<img src="/assets/img/AzaCouleurs.jpeg.jpeg" />
+<img src="/assets/img/IllustrationCurupira.jpeg.jpeg" />{: .mx-auto.d-block :}
+<img src="/assets/img/AzaCouleurs.jpeg.jpeg"  />{: .mx-auto.d-block :}
+<img src="/assets/img/FondAza-MC.jpeg.jpeg" />{: .mx-auto.d-block :}
+
 
 
