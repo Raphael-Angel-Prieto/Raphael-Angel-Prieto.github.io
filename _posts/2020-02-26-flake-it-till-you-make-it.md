@@ -13,10 +13,10 @@ author: Raphaël
 
 <h6 align="center"> Intrigue</h6><br />
 Incarnant un Curumim de la tribu Hi Merimã,
-le joueur passera par plusieurs épreuves pour devenir un guerrier qui guérit la nation
-Brésilienne des maux qui l'affectent.
+le joueur passera par plusieurs épreuves pour devenir un guerrier afin de guérir la nation
+Brésilienne des maux qui l'affecte.
 Au cours de son voyage, il entrera en contact avec
-différentes entités, recevant leur aide en vous accordant de grands pouvoirs
+différentes entités vous accordant de grands pouvoirs
 après les avoir vaincus lors d'un défi. 
 
 <h6 align="center">  Artworks réalisés</h6>
