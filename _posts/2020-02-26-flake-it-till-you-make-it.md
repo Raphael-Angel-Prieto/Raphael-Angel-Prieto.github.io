@@ -21,6 +21,6 @@ après les avoir vaincus lors d'un défi.
 
 Artworks réalisés: 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-![IllustrationCurupira.jpeg](https://beautifuljekyll.com/assets/img/IllustrationCurupira.jpeg)
+![IllustrationCurupira.jpeg](https://beautifuljekyll.com/assets/img/IllustrationCurupira.jpeg.jpeg)
 </assets/img src=“IllustrationCurupira.jpeg.jpeg”/> 
 <assets/img src="AzaCouleurs.jpeg.jpeg"/>
