@@ -21,10 +21,10 @@ author: Raphael Angel Prieto
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
+  Projets:
     - Cosmovision Brésilienne: "https://beautifuljekyll.com"
     - Les Essentiels: "https://www.markdowntutorial.com/"
-  Author's home: ""
+  
 
 ################
 # --- Logo --- #
